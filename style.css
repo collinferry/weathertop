@@ -1,0 +1,61 @@
+@font-face {
+    font-family: ringBearer;
+    src: url(http://bit.ly/20Ud5N7);
+}
+
+body {
+  background-image: url("http://images4.alphacoders.com/843/84316.jpg");
+  background-color: #000000;
+  margin-top: -100px;
+  background-position: center top;
+  background-repeat:no-repeat;
+}
+
+.weather-box { 
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  margin-left: -200px;
+}
+
+h2 {
+  position: absolute;
+  top: 0px;
+  left: 21%;
+  font-size: 40px;
+  font-family: 'Merriweather', serif;
+}
+
+.city {
+  position: absolute;
+  left: 40%;
+  top: 94px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+}
+
+.temp {
+  position: absolute;
+  top: 130px;
+  left: 42%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: large;
+}
+
+.condition {
+  position: absolute;
+  top: 150px;
+  left: 42%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: large;
+}
+
+.button {
+  position: absolute;
+  top: 280px;
+  left: 35%;
+}
+
+.hide {
+  display: none;
+}
