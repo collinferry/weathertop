@@ -26,7 +26,7 @@ if (navigator.geolocation) {
         } else if (iconNum === 4 || iconNum ===3 || iconNum === 50) {
         return "http://www.collinferry.com/codepen/clouds.jpg";
         } else if (iconNum >= 9 && iconNum <= 10) {
-        return "ttp://www.collinferry.com/codepen/rain.jpg";
+        return "http://www.collinferry.com/codepen/rain.jpg";
         } else if (iconNum === 11) {
         return "http://www.collinferry.com/codepen/storm.jpg";
         } 
