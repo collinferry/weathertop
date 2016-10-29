@@ -7,6 +7,8 @@ A different LOTR background displays based on the current weather type (sun, rai
 
 Link to live project: http://collinferry.com/weathertop/index.html
 
+(No longer works in chrome due to HTTP hosting - learn more <a href="https://sites.google.com/a/chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins">here</a>)
+
 Image credit to Ted Nasmith: http://www.tednasmith.com/ </br>
 Ringbearer font: http://www.fontspace.com/pete-klassen/ringbearer
 
